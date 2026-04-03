@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 Hi, I'm Benjamin, a software engineering student at Western University. I’m passionate about building innovative projects, especially ones related to OS and AI slop. Always open to connecting, so feel free to reach out!
 
 
