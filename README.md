@@ -8,7 +8,7 @@ Hi, I'm Benjamin, a software engineering student at Western University. I’m pa
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/My%20website-orange)](https://www.youtube.com/watch?v=iDLmYZ5HqgM)
+[![Website](https://img.shields.io/badge/My%20website-orange)](https://www.youtube.com/watch?v=iDLmYZ5HqgM&t=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/benjamin-namayandeh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Benjaminnamayandeh@gmail.com) 
 
 # 💻 Tech Stack:
