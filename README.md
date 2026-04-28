@@ -4,7 +4,7 @@
 </p>
 
 # 🤖 About Me:
-Hi, I'm Benjamin, a software engineering student at Western University. I’m passionate about building innovative projects, especially devtools and web dev! Always open to connecting, so feel free to reach out!
+Hi, I'm Benjamin, a software engineering student at Western University. I’m passionate about building innovative projects, especially related to devtools and web dev! Always open to connecting, so feel free to reach out!
 
 
 ## 🌐 Socials:
