@@ -3,9 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dwdG1kb2d2NXd4YWtsN2oxd2g5ZzF1ZDl2dmswcDZlcTB6d294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="850" alt="coding gif" />
 </p>
 
-# 🤖 About Me:
-Hi, I'm Benjamin, a software engineering student at Western University. I’m passionate about building innovative projects, especially related to devtools and web dev! Always open to connecting, so feel free to reach out!
-
+𝓝𝓸 𝓻𝓮𝓵𝓪𝓽𝓲𝓸𝓷.
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/My%20website-orange)](https://www.benjaminnamayandeh.me/)
