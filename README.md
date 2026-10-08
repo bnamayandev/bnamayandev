@@ -4,7 +4,7 @@
 </p>
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/My%20website-orange)](https://www.benjaminnamayandeh.me/)
+[![Website](https://img.shields.io/badge/My%20website-orange)](https://www.bnamayan.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-namayandeh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Benjaminnamayandeh@gmail.com) 
 
 # Stats 📉
